@@ -1,0 +1,17 @@
+1.    Develop a Python Program to Print Hello world!
+
+2.    Develop a  Python Program to Add Two Numbers
+
+3.    Develop a  Python Program to Find the Square Root
+
+4.    Develop a  Python Program to Calculate the Area of a Triangle
+
+5.    Develop a  Python Program to Calculate the Area of a Circle
+
+6.    Develop a Python Program to Swap Two Variables
+
+7.    Develop a  Python Program to find the memory location of a variable 
+
+8.    Develop a  Python Program to find the data type of variable
+
+Note: Take user input for each program.
